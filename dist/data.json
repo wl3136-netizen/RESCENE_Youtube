@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-09-09T11:43:47.537193Z",
+  "updatedAt": "2026-09-09T11:56:49.831091Z",
   "videos": [
+    {
+      "id": "YjRatNfJSbE",
+      "title": "다들 설창 봐주세요 ㅎㅅㅎ #리센느 #제나 #원이 #러브어택 #편집계 #돌아옴 #다들_고마웠어!! #미나미 #거제야호",
+      "channelTitle": "(쉼) 꼬미",
+      "publishedAt": "2026-09-09T11:53:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/YjRatNfJSbE/hqdefault.jpg",
+      "durationSeconds": 16,
+      "format": "short",
+      "tags": [
+        "#원이",
+        "#제나"
+      ]
+    },
+    {
+      "id": "TtPkxbOQ1qE",
+      "title": "어머니 닮은 제나 #제나",
+      "channelTitle": "쇼츠피디",
+      "publishedAt": "2026-09-09T11:53:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/TtPkxbOQ1qE/hqdefault.jpg",
+      "durationSeconds": 31,
+      "format": "short",
+      "tags": [
+        "#제나"
+      ]
+    },
+    {
+      "id": "jKorE_Wf73I",
+      "title": "본인한테 관대하고 메이한테는 엄격한 리브",
+      "channelTitle": "썰달",
+      "publishedAt": "2026-09-09T11:48:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/jKorE_Wf73I/hqdefault.jpg",
+      "durationSeconds": 43,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "HZKNouUK9uM",
+      "title": "[리센느] 한국식 회 문화에 감동한 미나미 #리센느",
+      "channelTitle": "리센느서치P 🔭",
+      "publishedAt": "2026-09-09T11:45:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/HZKNouUK9uM/hqdefault.jpg",
+      "durationSeconds": 29,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
     {
       "id": "hKC1Q-pg8Eg",
       "title": "품절될것 같은 빵 출시하는 리센느 최신근황",
@@ -70,8 +119,19 @@
       "durationSeconds": 33,
       "format": "short",
       "tags": [
-        "#리센느",
         "#제나"
+      ]
+    },
+    {
+      "id": "uJjA1hJzXHs",
+      "title": "[리니지클래식] 흑구 라이브  #shorts #쇼츠라이브 #리니지클래식  #원이 #리센느   #화둥 #용던 #활피단 #거제야호  #하이닉스 #엔비디아 #삼성전자 #젠슨황 #월드컵",
+      "channelTitle": "Hạnh Băng Băng",
+      "publishedAt": "2026-09-09T11:35:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/uJjA1hJzXHs/hqdefault_live.jpg",
+      "durationSeconds": 0,
+      "format": "short",
+      "tags": [
+        "#원이"
       ]
     },
     {
@@ -97,9 +157,7 @@
       "durationSeconds": 45,
       "format": "short",
       "tags": [
-        "#리브",
-        "#리센느",
-        "#메이"
+        "#리브"
       ]
     },
     {
