@@ -8,7 +8,12 @@ const dialog = document.querySelector("#playerDialog");
 const player = document.querySelector("#player");
 
 function escapeText(value) { return String(value ?? ""); }
-function formatDate(iso) { return new Intl.DateTimeFormat("ko-KR", { year: "numeric", month: "short", day: "numeric" }).format(new Date(iso)); }
+function formatDate(iso) {
+  return new Intl.DateTimeFormat("ko-KR", {
+    year: "numeric", month: "short", day: "numeric",
+    hour: "numeric", minute: "2-digit", timeZone: "Asia/Seoul"
+  }).format(new Date(iso));
+}
 function formatDuration(seconds) {
   const h = Math.floor(seconds / 3600), m = Math.floor((seconds % 3600) / 60), s = seconds % 60;
   return h ? `${h}:${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}` : `${m}:${String(s).padStart(2,"0")}`;
@@ -80,7 +85,7 @@ async function loadVideos() {
     state.videos = Array.isArray(data.videos) ? data.videos : [];
     state.videos.sort((a,b) => new Date(b.publishedAt) - new Date(a.publishedAt));
     document.querySelector("#updatedAt").textContent = data.updatedAt
-      ? `마지막 업데이트 ${new Intl.DateTimeFormat("ko-KR", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Seoul" }).format(new Date(data.updatedAt))}`
+      ? `마지막 업데이트 ${new Intl.DateTimeFormat("ko-KR", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Seoul" }).format(new Date(data.updatedAt))} KST`
       : "첫 업데이트 준비 중";
     updateCounts(); renderVideos();
   } catch { status.textContent = "목록을 불러오지 못했어요. 잠시 후 다시 확인해 주세요."; }
