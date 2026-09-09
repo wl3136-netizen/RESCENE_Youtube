@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#ff74ad" />
+  <meta name="description" content="리센느 멤버 해시태그의 신규 YouTube 영상을 모아보는 팬 대시보드" />
+  <title>RESCENE NEW CLIPS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero" aria-label="리센느 팬 영상 모음">
+      <img src="assets/리센느_일러스트.png" alt="파스텔 무대 위 다섯 멤버의 귀여운 웹툰풍 일러스트" />
+      <div class="hero-shade"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">DAILY HASHTAG UPDATE</p>
+        <h1>RESCENE<br /><span>NEW CLIPS</span></h1>
+        <p id="updatedAt" class="updated">업데이트 확인 중…</p>
+      </div>
+    </header>
+
+    <section class="workspace">
+      <div class="toolbar">
+        <div class="tabs" role="tablist" aria-label="영상 형식">
+          <button class="tab active" data-type="all" role="tab" aria-selected="true">전체 <span id="countAll">0</span></button>
+          <button class="tab" data-type="short" role="tab" aria-selected="false">숏폼 <span id="countShort">0</span></button>
+          <button class="tab" data-type="long" role="tab" aria-selected="false">롱폼 <span id="countLong">0</span></button>
+        </div>
+        <button id="refreshButton" class="refresh" type="button" aria-label="목록 새로고침">↻ 새로고침</button>
+      </div>
+
+      <div id="hashtags" class="hashtags" aria-label="해시태그 필터"></div>
+      <p id="status" class="status" aria-live="polite">새 영상을 불러오고 있어요.</p>
+      <div id="videoGrid" class="video-grid"></div>
+    </section>
+  </main>
+
+  <dialog id="playerDialog" class="player-dialog">
+    <button id="closePlayer" class="close-player" aria-label="영상 닫기">×</button>
+    <div class="player-wrap"><iframe id="player" title="YouTube 영상 재생" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+  </dialog>
+
+  <template id="videoCardTemplate">
+    <article class="video-card">
+      <button class="thumb-button" type="button">
+        <img class="thumbnail" alt="" loading="lazy" />
+        <span class="format-badge"></span>
+        <span class="duration"></span>
+        <span class="play" aria-hidden="true">▶</span>
+      </button>
+      <div class="card-body">
+        <div class="card-tags"></div>
+        <h2 class="video-title"></h2>
+        <div class="meta"><span class="channel"></span><span class="date"></span></div>
+      </div>
+    </article>
+  </template>
+  <script src="app.js"></script>
+</body>
+</html>
