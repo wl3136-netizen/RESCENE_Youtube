@@ -8,6 +8,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 TAGS = ["#리센느", "#원이", "#미나미", "#리브", "#메이", "#제나"]
+GROUP_QUERY = "#리센느|#RESCENE|리센느|RESCENE"
 DATA_PATH = Path(__file__).resolve().parents[1] / "dist" / "data.json"
 API_ROOT = "https://www.googleapis.com/youtube/v3"
 
@@ -39,8 +40,9 @@ def main():
 
     found = {}
     for tag in TAGS:
+        query = GROUP_QUERY if tag == "#리센느" else tag
         result = api_get("search", {
-            "part": "snippet", "q": tag, "type": "video", "order": "date",
+            "part": "snippet", "q": query, "type": "video", "order": "date",
             "publishedAfter": start.isoformat().replace("+00:00", "Z"), "maxResults": 25,
             "regionCode": "KR", "relevanceLanguage": "ko"
         })
