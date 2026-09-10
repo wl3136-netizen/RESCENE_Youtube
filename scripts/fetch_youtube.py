@@ -9,6 +9,7 @@ from pathlib import Path
 
 TAGS = ["#리센느", "#원이", "#미나미", "#리브", "#메이", "#제나"]
 GROUP_QUERY = "#리센느|#RESCENE|리센느|RESCENE"
+EXCLUDED_HASHTAGS = ("#리니지",)
 DATA_PATH = Path(__file__).resolve().parents[1] / "dist" / "data.json"
 API_ROOT = "https://www.googleapis.com/youtube/v3"
 
@@ -24,6 +25,12 @@ def parse_duration(value):
         return 0
     hours, minutes, seconds = (int(part or 0) for part in match.groups())
     return hours * 3600 + minutes * 60 + seconds
+
+def is_excluded(snippet):
+    searchable = html.unescape(
+        f"{snippet.get('title', '')} {snippet.get('description', '')}"
+    ).casefold()
+    return any(hashtag.casefold() in searchable for hashtag in EXCLUDED_HASHTAGS)
 
 def load_existing():
     if not DATA_PATH.exists():
@@ -47,6 +54,8 @@ def main():
             "regionCode": "KR", "relevanceLanguage": "ko"
         })
         for item in result.get("items", []):
+            if is_excluded(item["snippet"]):
+                continue
             video_id = item["id"]["videoId"]
             found.setdefault(video_id, {"snippet": item["snippet"], "tags": []})["tags"].append(tag)
 
@@ -56,7 +65,12 @@ def main():
         batch = api_get("videos", {"part": "contentDetails", "id": ",".join(ids[offset:offset+50])})
         details.update({item["id"]: item for item in batch.get("items", [])})
 
-    by_id = {video["id"]: video for video in existing.get("videos", [])}
+    by_id = {
+        video["id"]: video
+        for video in existing.get("videos", [])
+        if not any(hashtag.casefold() in html.unescape(video.get("title", "")).casefold()
+                   for hashtag in EXCLUDED_HASHTAGS)
+    }
     for video_id, value in found.items():
         snippet = value["snippet"]
         seconds = parse_duration(details.get(video_id, {}).get("contentDetails", {}).get("duration"))
