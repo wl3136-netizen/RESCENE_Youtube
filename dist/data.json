@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-10T17:06:47.371866Z",
+  "updatedAt": "2026-09-10T17:52:33.334525Z",
   "videos": [
+    {
+      "id": "ShpGS6dgDSY",
+      "title": "정답은 알았는데 시무룩해진 원이 #리센느 #원이 #shorts",
+      "channelTitle": "시나몬",
+      "publishedAt": "2026-09-10T17:46:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/ShpGS6dgDSY/hqdefault.jpg",
+      "durationSeconds": 53,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "hRuj600x5Yc",
+      "title": "인형이 마음에 든 원이 #원이",
+      "channelTitle": "쇼츠피디",
+      "publishedAt": "2026-09-10T17:27:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/hRuj600x5Yc/hqdefault.jpg",
+      "durationSeconds": 10,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
     {
       "id": "VqRkBYzjdTo",
       "title": "방송 재밌냐고 묻더니 원이를 놀려버리는 리브ㅋㅋ",
@@ -34,7 +58,9 @@
       "durationSeconds": 18,
       "format": "short",
       "tags": [
-        "#원이"
+        "#미나미",
+        "#원이",
+        "#제나"
       ]
     },
     {
@@ -2428,30 +2454,6 @@
       "format": "short",
       "tags": [
         "#메이"
-      ]
-    },
-    {
-      "id": "g8fgMuCrAWQ",
-      "title": "리브 고점 딸깍 모음 ㅋㅋㅋ",
-      "channelTitle": "케이팝팬튜브",
-      "publishedAt": "2026-09-10T06:00:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/g8fgMuCrAWQ/hqdefault.jpg",
-      "durationSeconds": 34,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "83mewShTOO8",
-      "title": "표현이 남다른 원리브",
-      "channelTitle": "킹센느",
-      "publishedAt": "2026-09-10T05:56:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/83mewShTOO8/hqdefault.jpg",
-      "durationSeconds": 22,
-      "format": "short",
-      "tags": [
-        "#리브"
       ]
     }
   ]
