@@ -1,6 +1,643 @@
 {
-  "updatedAt": "2026-10-03T16:41:54.838405Z",
+  "updatedAt": "2026-10-03T21:44:13.905957Z",
   "videos": [
+    {
+      "id": "dUchL81_upI",
+      "title": "[야호]리브 플러팅중 삐진 제나 #리센느",
+      "channelTitle": "바이럴야호",
+      "publishedAt": "2026-10-03T21:12:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/dUchL81_upI/hqdefault.jpg",
+      "durationSeconds": 26,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#제나"
+      ]
+    },
+    {
+      "id": "IlylUN078yo",
+      "title": "트로트채널 제대로 붙은 ✨️신라공주 제나✨️",
+      "channelTitle": "김코낄",
+      "publishedAt": "2026-10-03T21:06:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/IlylUN078yo/hqdefault.jpg",
+      "durationSeconds": 19,
+      "format": "short",
+      "tags": [
+        "#제나"
+      ]
+    },
+    {
+      "id": "j5U9bzg5hRk",
+      "title": "체급 공개하자마자 떡볶이 퍼먹은 리브와 미나미",
+      "channelTitle": "핫셀픽",
+      "publishedAt": "2026-10-03T21:02:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/j5U9bzg5hRk/hqdefault.jpg",
+      "durationSeconds": 37,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#미나미"
+      ]
+    },
+    {
+      "id": "pEAQ441FOhE",
+      "title": "미나미에게 채널 뺏길 위기감이 9.5점?ㅋㅋ 댓글 반응에 솔직하게 답한 원이의 안원잘부 Q&A | 리센느 #리센느 #미나미 #Shorts",
+      "channelTitle": "スキマニア",
+      "publishedAt": "2026-10-03T21:02:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/pEAQ441FOhE/hqdefault.jpg",
+      "durationSeconds": 22,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "JNUIim_4XPQ",
+      "title": "인조인간 소리 듣는 리센느 리브 근황",
+      "channelTitle": "토토리픽",
+      "publishedAt": "2026-10-03T21:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/JNUIim_4XPQ/hqdefault.jpg",
+      "durationSeconds": 34,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "IWQ8jFA3f5o",
+      "title": "놀릴 때도 챙길 때도, 서로를 너무 잘 아는 리센느ㅋㅋ | 예전 라방 모음 #리센느 #원이 #미나미 #제나 #리브 #메이",
+      "channelTitle": "이리센느",
+      "publishedAt": "2026-10-03T21:00:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/IWQ8jFA3f5o/hqdefault.jpg",
+      "durationSeconds": 652,
+      "format": "long",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "Ur0IwSbSBrU",
+      "title": "입만 열면 웃긴 제나 모먼트 TOP 5 #리센느 #원이 #미나미 #리브 #제나 #메이",
+      "channelTitle": "숄츠",
+      "publishedAt": "2026-10-03T21:00:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ur0IwSbSBrU/hqdefault.jpg",
+      "durationSeconds": 51,
+      "format": "short",
+      "tags": [
+        "#원이",
+        "#제나"
+      ]
+    },
+    {
+      "id": "8KEE2mA6WKM",
+      "title": "상큼함 폭발하다가 짱돌 근육(?) 자랑하는 원이 #rescene #리센느 #kpop #원이",
+      "channelTitle": "월화수목금리센느",
+      "publishedAt": "2026-10-03T21:00:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/8KEE2mA6WKM/hqdefault.jpg",
+      "durationSeconds": 24,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "YuhuhO7d3p8",
+      "title": "리센느 리브가 첫 팬콘서트에서 운 이유, 2층에 앉아 있던 사람",
+      "channelTitle": "찐터뷰",
+      "publishedAt": "2026-10-03T21:00:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/YuhuhO7d3p8/hqdefault.jpg",
+      "durationSeconds": 38,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "3SohH17Q590",
+      "title": "막내들이 모이면 말랑한 순간 TOP 5 #리센느 #원이 #미나미 #리브 #제나 #메이",
+      "channelTitle": "발라버려",
+      "publishedAt": "2026-10-03T21:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/3SohH17Q590/hqdefault.jpg",
+      "durationSeconds": 38,
+      "format": "short",
+      "tags": [
+        "#미나미",
+        "#원이"
+      ]
+    },
+    {
+      "id": "2tqvYPsugvE",
+      "title": "계곡에 왔는데 온천 바이브 나온 미나미ㅋㅋ #리센느 #RESCENE #미나미 #원이 #Shorts",
+      "channelTitle": "RE:SCENT",
+      "publishedAt": "2026-10-03T21:00:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/2tqvYPsugvE/hqdefault.jpg",
+      "durationSeconds": 21,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "bUnTmrQ4o60",
+      "title": "미나미가 사투리를 너무 잘해서 생긴 오해 ㅋㅋ",
+      "channelTitle": "리센느쇼츠",
+      "publishedAt": "2026-10-03T21:00:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/bUnTmrQ4o60/hqdefault.jpg",
+      "durationSeconds": 38,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "bAwVOgQmMDQ",
+      "title": "리센느 리브·메이, 2% 광고 받았는데 진짜 2% 부족함",
+      "channelTitle": "랭킹딱",
+      "publishedAt": "2026-10-03T21:00:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/bAwVOgQmMDQ/hqdefault.jpg",
+      "durationSeconds": 21,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#메이"
+      ]
+    },
+    {
+      "id": "o9c0LdRGlwk",
+      "title": "리센느 체중공개 후 떡볶이ㅋㅋㅋ  #리센느원이 #리센느미나미 #리센느",
+      "channelTitle": "짤드라",
+      "publishedAt": "2026-10-03T21:00:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/o9c0LdRGlwk/hqdefault.jpg",
+      "durationSeconds": 40,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "rqbPJ3_RVTA",
+      "title": "매일 아침 메이가 모닝콜 해준다면!? #MAY #메이 #メイ #RESCENE #리센느 #リセンヌ #모닝콜",
+      "channelTitle": "픽벌스",
+      "publishedAt": "2026-10-03T20:50:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/rqbPJ3_RVTA/hqdefault.jpg",
+      "durationSeconds": 13,
+      "format": "short",
+      "tags": [
+        "#메이"
+      ]
+    },
+    {
+      "id": "NBJLSdCWnI4",
+      "title": "리센느(RESCENE) LOVE ATTACK(MAY) 미리보기 #메이 #직캠 #팬캠 #fancam",
+      "channelTitle": "현서캠",
+      "publishedAt": "2026-10-03T20:39:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/NBJLSdCWnI4/hqdefault.jpg",
+      "durationSeconds": 22,
+      "format": "short",
+      "tags": [
+        "#메이"
+      ]
+    },
+    {
+      "id": "Ph1YN86coLI",
+      "title": "리센느(RESCENE) Runaway(WONI) 미리보기 #원이 #직캠 #팬캠 #fancam",
+      "channelTitle": "현서캠",
+      "publishedAt": "2026-10-03T20:39:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ph1YN86coLI/hqdefault.jpg",
+      "durationSeconds": 34,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "JdchYJ_t1xQ",
+      "title": "리센느(RESCENE) Deja Vu(MINAMI) 미리보기 #미나미 #직캠 #팬캠 #fancam",
+      "channelTitle": "현서캠",
+      "publishedAt": "2026-10-03T20:39:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/JdchYJ_t1xQ/hqdefault.jpg",
+      "durationSeconds": 35,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "cqR19G__N8E",
+      "title": "리센느(RESCENE) Pinball(LIV) 미리보기 #리브 #직캠 #팬캠 #fancam",
+      "channelTitle": "현서캠",
+      "publishedAt": "2026-10-03T20:39:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/cqR19G__N8E/hqdefault.jpg",
+      "durationSeconds": 32,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "iEtbj899I0g",
+      "title": "리센느(RESCENE) Pretty Girl(WONI) 미리보기 #원이 #직캠 #팬캠 #fancam",
+      "channelTitle": "현서캠",
+      "publishedAt": "2026-10-03T20:39:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/iEtbj899I0g/hqdefault.jpg",
+      "durationSeconds": 34,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "82Ek5NATiOA",
+      "title": "꽃이 갑자기 빛나는 리센느 메이 #리센느 #메이",
+      "channelTitle": "안녕하세요원이를잘부탁드립니다",
+      "publishedAt": "2026-10-03T20:22:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/82Ek5NATiOA/hqdefault.jpg",
+      "durationSeconds": 33,
+      "format": "short",
+      "tags": [
+        "#메이"
+      ]
+    },
+    {
+      "id": "z_7hqJ3H9F8",
+      "title": "촛불 없이 시작된 리센느 미나미 생일파티, 결국 2회차",
+      "channelTitle": "황혼의시간",
+      "publishedAt": "2026-10-03T19:56:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/z_7hqJ3H9F8/hqdefault.jpg",
+      "durationSeconds": 19,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "H6tmMzviC0M",
+      "title": "메이의 왁뿌볼과 말랑이",
+      "channelTitle": "행복급행",
+      "publishedAt": "2026-10-03T19:44:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/H6tmMzviC0M/hqdefault.jpg",
+      "durationSeconds": 63,
+      "format": "short",
+      "tags": [
+        "#메이"
+      ]
+    },
+    {
+      "id": "KGV43THEkYw",
+      "title": "리본원이 🎀💛 이쁜이는뒤를돌아봅니다+우마우마",
+      "channelTitle": "방황인데요",
+      "publishedAt": "2026-10-03T19:27:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/KGV43THEkYw/hqdefault.jpg",
+      "durationSeconds": 50,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "cG_GwNAIPjg",
+      "title": "메이는 신났고 원이는 어려워 #리센느 #원이 #메이 #rescene",
+      "channelTitle": "Stick Version ",
+      "publishedAt": "2026-10-03T19:20:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/cG_GwNAIPjg/hqdefault.jpg",
+      "durationSeconds": 31,
+      "format": "short",
+      "tags": [
+        "#메이",
+        "#원이"
+      ]
+    },
+    {
+      "id": "prroI34z2nc",
+      "title": "습하습하 #shorts #rescene #리센느",
+      "channelTitle": "알고보면",
+      "publishedAt": "2026-10-03T19:13:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/prroI34z2nc/hqdefault.jpg",
+      "durationSeconds": 8,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "jXemM5OSndI",
+      "title": "섭외 100통 받는 리센느 통장이 아직도 #리센느 #원이 #메이 #이서진",
+      "channelTitle": "이슈라운지",
+      "publishedAt": "2026-10-03T18:57:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/jXemM5OSndI/hqdefault.jpg",
+      "durationSeconds": 28,
+      "format": "short",
+      "tags": [
+        "#메이"
+      ]
+    },
+    {
+      "id": "60AttWIW_Lc",
+      "title": "리센느 제나 입덕 영상",
+      "channelTitle": "리센느를 파헤쳐",
+      "publishedAt": "2026-10-03T18:49:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/60AttWIW_Lc/hqdefault.jpg",
+      "durationSeconds": 179,
+      "format": "short",
+      "tags": [
+        "#제나"
+      ]
+    },
+    {
+      "id": "dS9PUBKXdzA",
+      "title": "Minami fancam, DejaVu",
+      "channelTitle": "kpop_idol_fancam",
+      "publishedAt": "2026-10-03T18:30:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/dS9PUBKXdzA/hqdefault.jpg",
+      "durationSeconds": 42,
+      "format": "short",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "XIRQaMz_u-8",
+      "title": "리센느 골드버튼 ㅣ 리브는 보법이 달라 ㅋ",
+      "channelTitle": "niinano",
+      "publishedAt": "2026-10-03T17:51:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/XIRQaMz_u-8/hqdefault.jpg",
+      "durationSeconds": 20,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "EdMGxDVQYB0",
+      "title": "[팬메이드 MV] 나의 연수아저씨(원이, 이선민, 유영우)_숏폼 3",
+      "channelTitle": "sorik",
+      "publishedAt": "2026-10-03T17:45:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/EdMGxDVQYB0/hqdefault.jpg",
+      "durationSeconds": 48,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "atElM2MwlbA",
+      "title": "[4K] 261003 'Pretty Girl' 원이 리센느 WONI RESCENE | 제72회 백제문화제 (직캠 Fancam)",
+      "channelTitle": "원아지 wonaji",
+      "publishedAt": "2026-10-03T17:44:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/atElM2MwlbA/hqdefault.jpg",
+      "durationSeconds": 208,
+      "format": "long",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "48eeqwuiGrU",
+      "title": "[4K CAM] 261003 리센느 원이 RESCENE WONI 'Pinball' 직캠",
+      "channelTitle": "떡상배",
+      "publishedAt": "2026-10-03T17:37:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/48eeqwuiGrU/hqdefault.jpg",
+      "durationSeconds": 195,
+      "format": "long",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "dlE8dkRY2gc",
+      "title": "[4K] 261003 'Deja Vu' 원이 리센느 WONI RESCENE | 제72회 백제문화제 (직캠 Fancam)",
+      "channelTitle": "원아지 wonaji",
+      "publishedAt": "2026-10-03T17:36:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/dlE8dkRY2gc/hqdefault.jpg",
+      "durationSeconds": 184,
+      "format": "long",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "EPCOfkNm3zk",
+      "title": "#원이 #rescene",
+      "channelTitle": "리센느잊지마에서많이기다렸어까지",
+      "publishedAt": "2026-10-03T17:31:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/EPCOfkNm3zk/hqdefault.jpg",
+      "durationSeconds": 10,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "Kb2O9C7mrSI",
+      "title": "[4K CAM] 261003 리센느 리브 RESCENE LIV 'Runaway' 직캠",
+      "channelTitle": "떡상배",
+      "publishedAt": "2026-10-03T17:26:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/Kb2O9C7mrSI/hqdefault.jpg",
+      "durationSeconds": 186,
+      "format": "long",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "hbkj9PqFn0Y",
+      "title": "원이의 치즈냥이🐱🧀😍 #거제야호 #리센느 #리브 #메이 #미나미 #kpop #rescene #youtubeshorts #갸루 #리센느원이 #원이 #제나",
+      "channelTitle": "리센느♡리마인tv",
+      "publishedAt": "2026-10-03T17:22:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/hbkj9PqFn0Y/hqdefault.jpg",
+      "durationSeconds": 3,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "SHnW07N8ulA",
+      "title": "빠르게 지나가는 파이리를 잡아라!🔥🔥 #거제야호 #리브 #리센느 #메이 #미나미 #kpop #rescene #youtubeshorts #갸루 #리센느원이 #원이 #제나 #정원이",
+      "channelTitle": "리센느♡리마인tv",
+      "publishedAt": "2026-10-03T17:21:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/SHnW07N8ulA/hqdefault.jpg",
+      "durationSeconds": 2,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "E_OuAfTpmO0",
+      "title": "[4K CAM] 261003 리센느 미나미 RESCENE MINAMI 'Deja Vu' 직캠",
+      "channelTitle": "떡상배",
+      "publishedAt": "2026-10-03T17:20:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/E_OuAfTpmO0/hqdefault.jpg",
+      "durationSeconds": 184,
+      "format": "long",
+      "tags": [
+        "#미나미"
+      ]
+    },
+    {
+      "id": "-KTITRSQQp0",
+      "title": "[4K] 261003 'LOVE ATTACK' 원이 리센느 WONI RESCENE | 제72회 백제문화제 (직캠 Fancam)",
+      "channelTitle": "원아지 wonaji",
+      "publishedAt": "2026-10-03T17:19:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/-KTITRSQQp0/hqdefault.jpg",
+      "durationSeconds": 14,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "6kGecEtZv2U",
+      "title": "원이와 제나의 야구실력😍😍💘 #거제야호 #리센느 #미나미 #kpop #메이 #rescene #youtubeshorts #리브 #갸루 #리센느원이 #제나 #원이 #야구 #아시안게임",
+      "channelTitle": "리센느♡리마인tv",
+      "publishedAt": "2026-10-03T17:17:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/6kGecEtZv2U/hqdefault.jpg",
+      "durationSeconds": 14,
+      "format": "short",
+      "tags": [
+        "#제나"
+      ]
+    },
+    {
+      "id": "SKBWIBSTaRA",
+      "title": "처음 스친 그때 이 향길 기억해 줘 #원이 리센느",
+      "channelTitle": "지윈2",
+      "publishedAt": "2026-10-03T17:16:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/SKBWIBSTaRA/hqdefault.jpg",
+      "durationSeconds": 10,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "JFMhPHz7elg",
+      "title": "까엉~ 티비✌️😍💘 #제나 #리브 #거제야호 #리센느 #메이 #미나미 #kpop #rescene #youtubeshorts #갸루 #리센느원이 #원이 #야호 #까엉이",
+      "channelTitle": "리센느♡리마인tv",
+      "publishedAt": "2026-10-03T17:11:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/JFMhPHz7elg/hqdefault.jpg",
+      "durationSeconds": 6,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#메이",
+        "#제나"
+      ]
+    },
+    {
+      "id": "3KyO7VYy6Lk",
+      "title": "무리브 댄스🥰🥰 #리브 #리센느 #메이 #거제야호 #미나미 #kpop #rescene #youtubeshorts #갸루 #리센느원이 #제나 #까엉이 #진경은",
+      "channelTitle": "리센느♡리마인",
+      "publishedAt": "2026-10-03T17:09:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/3KyO7VYy6Lk/hqdefault.jpg",
+      "durationSeconds": 5,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#메이",
+        "#미나미"
+      ]
+    },
+    {
+      "id": "AY-lS_SRCfM",
+      "title": "박하!! -리브- #거제야호 #거제야호 #리브 #리센느 #메이 #미나미 #kpop #rescene #youtubeshorts #갸루 #리센느원이 #리브 #진경은 #제나 #까엉이",
+      "channelTitle": "리센느♡리마인tv",
+      "publishedAt": "2026-10-03T17:08:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/AY-lS_SRCfM/hqdefault.jpg",
+      "durationSeconds": 2,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#메이",
+        "#미나미"
+      ]
+    },
+    {
+      "id": "EulxkTmXA-U",
+      "title": "[4K] 261003 'LOVE ATTACK' 원이 리센느 WONI RESCENE | 제72회 백제문화제 (직캠 Fancam)",
+      "channelTitle": "원아지 wonaji",
+      "publishedAt": "2026-10-03T17:05:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/EulxkTmXA-U/hqdefault.jpg",
+      "durationSeconds": 180,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "9vUVyPXNfuQ",
+      "title": "어디서나 당당하게 걷기🏃‍♀️‍➡️│261003 공주백제문화제 리센느 제나",
+      "channelTitle": "탐정단_fancam",
+      "publishedAt": "2026-10-03T17:00:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/9vUVyPXNfuQ/hqdefault.jpg",
+      "durationSeconds": 40,
+      "format": "short",
+      "tags": [
+        "#제나"
+      ]
+    },
+    {
+      "id": "W-YWNfoYQvQ",
+      "title": "놀러 온 리브가 너무 잘한다는데… 알고 보니 경력직ㅋㅋ",
+      "channelTitle": "핵심만컷",
+      "publishedAt": "2026-10-03T17:00:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/W-YWNfoYQvQ/hqdefault.jpg",
+      "durationSeconds": 31,
+      "format": "short",
+      "tags": [
+        "#리브"
+      ]
+    },
+    {
+      "id": "t1hfuT1KLoY",
+      "title": "[4K CAM] 261003 리센느 제나 RESCENE ZENA 'LOVE ATTACK' 직캠",
+      "channelTitle": "떡상배",
+      "publishedAt": "2026-10-03T16:55:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/t1hfuT1KLoY/hqdefault.jpg",
+      "durationSeconds": 184,
+      "format": "long",
+      "tags": [
+        "#제나"
+      ]
+    },
+    {
+      "id": "PUuNoyV_aEM",
+      "title": "팬들이 날조한 리브 과거 17대 1 썰에 신난  미나미와 제나#리센느#rescene",
+      "channelTitle": "아이돌썰플리",
+      "publishedAt": "2026-10-03T16:55:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/PUuNoyV_aEM/hqdefault.jpg",
+      "durationSeconds": 29,
+      "format": "short",
+      "tags": [
+        "#리브",
+        "#미나미"
+      ]
+    },
+    {
+      "id": "NBAY5A6ohLw",
+      "title": "자본주의의 맛을 알아버린 원이 #비서진 #리센느",
+      "channelTitle": "Epic Shorts",
+      "publishedAt": "2026-10-03T16:53:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/NBAY5A6ohLw/hqdefault.jpg",
+      "durationSeconds": 25,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
+    {
+      "id": "-8_ClZ8fhLo",
+      "title": "외모 콤플렉스 원이 vs 카리나",
+      "channelTitle": "뿔예능",
+      "publishedAt": "2026-10-03T16:36:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/-8_ClZ8fhLo/hqdefault.jpg",
+      "durationSeconds": 36,
+      "format": "short",
+      "tags": [
+        "#원이"
+      ]
+    },
     {
       "id": "2_WCC2op92M",
       "title": "20261003 공주백제문화제  #리센느 #데자뷰 #resene #제나 #백제문화제",
@@ -1810,649 +2447,6 @@
       "format": "short",
       "tags": [
         "#리브"
-      ]
-    },
-    {
-      "id": "Q9QnGaltJ1c",
-      "title": "#리센느 #원이 #리브 #제나 #메이.        #미나미  #ibk기업은행",
-      "channelTitle": "이문안남김",
-      "publishedAt": "2026-10-03T09:44:10Z",
-      "thumbnail": "https://i.ytimg.com/vi/Q9QnGaltJ1c/hqdefault.jpg",
-      "durationSeconds": 59,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#메이",
-        "#미나미",
-        "#원이",
-        "#제나"
-      ]
-    },
-    {
-      "id": "_4bZ-0RCCFg",
-      "title": "리브가 절대 이해 안가는 메이 ㅋㅋ #리센느 #rescene",
-      "channelTitle": "거제파이리 원이의 리센느 일기장",
-      "publishedAt": "2026-10-03T09:42:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/_4bZ-0RCCFg/hqdefault.jpg",
-      "durationSeconds": 22,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "TG-X4q04iJw",
-      "title": "오늘 기분 맑음  #리센느 #리브 #메이 #원이 #미나미 #제나",
-      "channelTitle": "오늘의 리센느",
-      "publishedAt": "2026-10-03T09:37:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/TG-X4q04iJw/hqdefault.jpg",
-      "durationSeconds": 8,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#메이",
-        "#미나미",
-        "#원이",
-        "#제나"
-      ]
-    },
-    {
-      "id": "UDyqTQM1FNc",
-      "title": "진짜로 퇴사할 사람은 누구!?(기안,미나미,소연,수이,이상미,유연) #리센느 #idle #기안84 #kiiikiii #익스 #triples #트리플에스",
-      "channelTitle": "AI소환사 태밍",
-      "publishedAt": "2026-10-03T09:32:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/UDyqTQM1FNc/hqdefault.jpg",
-      "durationSeconds": 49,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "LMEO_m8O4eM",
-      "title": "항상 중요할때 가장 필요한 역할을 해주는 리브",
-      "channelTitle": "리센느픽",
-      "publishedAt": "2026-10-03T09:32:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/LMEO_m8O4eM/hqdefault.jpg",
-      "durationSeconds": 17,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "lWF6OmDlh2o",
-      "title": "사투리에 진심인 아이돌",
-      "channelTitle": "어떻게이름도진경은",
-      "publishedAt": "2026-10-03T09:30:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/lWF6OmDlh2o/hqdefault.jpg",
-      "durationSeconds": 26,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "44LjNfzZFLo",
-      "title": "엉뚱한 말해도 다 받아 적자 제작진 의심 하는 리브 메이",
-      "channelTitle": "라부부",
-      "publishedAt": "2026-10-03T09:30:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/44LjNfzZFLo/hqdefault.jpg",
-      "durationSeconds": 30,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "7UoECDDl5E0",
-      "title": "오디오는 리브 비디오는 제나",
-      "channelTitle": "쇼츠인",
-      "publishedAt": "2026-10-03T09:30:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/7UoECDDl5E0/hqdefault.jpg",
-      "durationSeconds": 22,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#제나"
-      ]
-    },
-    {
-      "id": "EjvxW4SkWy8",
-      "title": "찌릿찌릿한 표정까지 맞춘 원이·제나 | 리센느 #Shorts",
-      "channelTitle": "sunhong2k",
-      "publishedAt": "2026-10-03T09:30:24Z",
-      "thumbnail": "https://i.ytimg.com/vi/EjvxW4SkWy8/hqdefault.jpg",
-      "durationSeconds": 10,
-      "format": "short",
-      "tags": [
-        "#원이",
-        "#제나"
-      ]
-    },
-    {
-      "id": "98ibrcWjA1k",
-      "title": "리브 사냥꾼 뀨형",
-      "channelTitle": "알고보냥?",
-      "publishedAt": "2026-10-03T09:30:24Z",
-      "thumbnail": "https://i.ytimg.com/vi/98ibrcWjA1k/hqdefault.jpg",
-      "durationSeconds": 39,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "KOZ3SZJqR7A",
-      "title": "제나 시구 보기전 봐야할영상",
-      "channelTitle": "리센느_또보기",
-      "publishedAt": "2026-10-03T09:30:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/KOZ3SZJqR7A/hqdefault.jpg",
-      "durationSeconds": 58,
-      "format": "short",
-      "tags": [
-        "#미나미",
-        "#제나"
-      ]
-    },
-    {
-      "id": "yqS6pJFv2VI",
-      "title": "결국 아이돌이 된 미나미 #라디오스타 #미나미",
-      "channelTitle": "숏파민",
-      "publishedAt": "2026-10-03T09:30:13Z",
-      "thumbnail": "https://i.ytimg.com/vi/yqS6pJFv2VI/hqdefault.jpg",
-      "durationSeconds": 90,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "lPVG6wZOwP0",
-      "title": "방송에 안 나온 원이 시구 삼성이 다시 불러줌",
-      "channelTitle": "입덕랭킹필름",
-      "publishedAt": "2026-10-03T09:30:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/lPVG6wZOwP0/hqdefault.jpg",
-      "durationSeconds": 21,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "wtS5m6xixxo",
-      "title": "막내들 내보내던 원이, 다 계획이 있었네ㅋㅋ #리센느 #원이",
-      "channelTitle": "리센느사랑해",
-      "publishedAt": "2026-10-03T09:30:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/wtS5m6xixxo/hqdefault.jpg",
-      "durationSeconds": 22,
-      "format": "short",
-      "tags": [
-        "#메이",
-        "#원이"
-      ]
-    },
-    {
-      "id": "b5fC3iCr1dU",
-      "title": "카메라 뒤에서 남몰래 속앓이 해야만 했던 아이돌 #리센느 #원이 #러브어택 #인터뷰 #아이돌고충",
-      "channelTitle": "그누구더라",
-      "publishedAt": "2026-10-03T09:30:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/b5fC3iCr1dU/hqdefault.jpg",
-      "durationSeconds": 52,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "huv9JM0dqBs",
-      "title": "리센느 원이빵 제나빵🔥",
-      "channelTitle": "마시썬",
-      "publishedAt": "2026-10-03T09:29:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/huv9JM0dqBs/hqdefault.jpg",
-      "durationSeconds": 38,
-      "format": "short",
-      "tags": [
-        "#제나"
-      ]
-    },
-    {
-      "id": "5BeaCH2ZWlo",
-      "title": "리센느 미나미도 눈썹 빈 곳을 메꿀 때 이걸 쓴다는데요?! #연예인추천템 #내돈내산추천 #쿠팡추천템",
-      "channelTitle": "템포착",
-      "publishedAt": "2026-10-03T09:26:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/5BeaCH2ZWlo/hqdefault.jpg",
-      "durationSeconds": 20,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "rMz0xswLddo",
-      "title": "리센느 미나미 갸루 엄마가 딸을 한국 보내며 한 말 #리센느 #미나미",
-      "channelTitle": "OBO",
-      "publishedAt": "2026-10-03T09:15:38Z",
-      "thumbnail": "https://i.ytimg.com/vi/rMz0xswLddo/hqdefault.jpg",
-      "durationSeconds": 28,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "wVjzl2iosQY",
-      "title": "리센느 원이 세차할때 필요한건 웨하스 #나의연수아저씨 #리센느 #원이 #RESCENE #WONI",
-      "channelTitle": "스타모먼트쇼츠",
-      "publishedAt": "2026-10-03T09:15:13Z",
-      "thumbnail": "https://i.ytimg.com/vi/wVjzl2iosQY/hqdefault.jpg",
-      "durationSeconds": 30,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "fpLYvJtZdIs",
-      "title": "[리센느] 전혀 성장하지 않았어... (리브 메이 하이파이브) #리센느 #rescene",
-      "channelTitle": "KPOP101",
-      "publishedAt": "2026-10-03T09:15:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/fpLYvJtZdIs/hqdefault.jpg",
-      "durationSeconds": 38,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#메이"
-      ]
-    },
-    {
-      "id": "gXmuciY2UVw",
-      "title": "원이 리브 동시에 간택당한 리마인 #리센느",
-      "channelTitle": "움직임",
-      "publishedAt": "2026-10-03T09:14:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/gXmuciY2UVw/hqdefault.jpg",
-      "durationSeconds": 13,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#원이"
-      ]
-    },
-    {
-      "id": "EtSXDDAM-dY",
-      "title": "4일만에 구한 #리브빵 ✨ 미나미빵은 언제 구하지.. #리센느 #리센느빵 #CU리센느 #리센느포카 #포카깡 #RESCENE #리센느포카깡 #리센느리브 #씨유리센느",
-      "channelTitle": "만다네  mantha_zip",
-      "publishedAt": "2026-10-03T09:11:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/EtSXDDAM-dY/hqdefault.jpg",
-      "durationSeconds": 22,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#미나미"
-      ]
-    },
-    {
-      "id": "YsEL-gc79Nc",
-      "title": "최애 사나 앞에서 눈물 터진 미나미",
-      "channelTitle": "이유",
-      "publishedAt": "2026-10-03T09:04:34Z",
-      "thumbnail": "https://i.ytimg.com/vi/YsEL-gc79Nc/hqdefault.jpg",
-      "durationSeconds": 576,
-      "format": "long",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "kTKlF5zcCxA",
-      "title": "동네 축제 브이로그 ( feat. 출렁다리 ) @chamchiiii14 #메이 #브이로그",
-      "channelTitle": "뿅뿅이",
-      "publishedAt": "2026-10-03T09:04:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/kTKlF5zcCxA/hqdefault.jpg",
-      "durationSeconds": 34,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "VkVS1OMhBgA",
-      "title": "다들 첫인상 얘기하는데 원이만 “학원 선생님?”ㅋㅋ 유영우를 처음 만났을 때 떠올린 생각 | 리센느 #리센느 #원이 #Shorts",
-      "channelTitle": "スキマニア",
-      "publishedAt": "2026-10-03T09:03:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/VkVS1OMhBgA/hqdefault.jpg",
-      "durationSeconds": 18,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "lFkg1YqGATs",
-      "title": "삼총사였는데 혼자 클럽 가입 못 한 제나",
-      "channelTitle": "핫셀픽",
-      "publishedAt": "2026-10-03T09:02:51Z",
-      "thumbnail": "https://i.ytimg.com/vi/lFkg1YqGATs/hqdefault.jpg",
-      "durationSeconds": 34,
-      "format": "short",
-      "tags": [
-        "#제나"
-      ]
-    },
-    {
-      "id": "7F_toYg2f4Y",
-      "title": "소고기 없는 마라탕 주문한 이서진 세대차이 느낀 리센느 원이 #리센느원이 #리센느미나미 #리센느 #비서진 #이서진 #김광규",
-      "channelTitle": "여친몰래보기",
-      "publishedAt": "2026-10-03T09:02:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/7F_toYg2f4Y/hqdefault.jpg",
-      "durationSeconds": 53,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "jdxXZbkiGQs",
-      "title": "장난감 터뜨린 이서진에게 메이가 한 말ㅋㅋ #리센느 #메이 #비서진 #이서진 #김광규 #shorts",
-      "channelTitle": "리며들었다",
-      "publishedAt": "2026-10-03T09:02:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/jdxXZbkiGQs/hqdefault.jpg",
-      "durationSeconds": 17,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "Q6Z61TNzkY8",
-      "title": "LA 옥상 어딘가에 있다는 메이의 용연",
-      "channelTitle": "숏때리기",
-      "publishedAt": "2026-10-03T09:00:40Z",
-      "thumbnail": "https://i.ytimg.com/vi/Q6Z61TNzkY8/hqdefault.jpg",
-      "durationSeconds": 32,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "O4P_isFHsbg",
-      "title": "제나 '시골버스'에 인생을 태워버린 평론가ㄷㄷ",
-      "channelTitle": "이슈라이팅",
-      "publishedAt": "2026-10-03T09:00:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/O4P_isFHsbg/hqdefault.jpg",
-      "durationSeconds": 18,
-      "format": "short",
-      "tags": [
-        "#제나"
-      ]
-    },
-    {
-      "id": "XQLzNbxaHRY",
-      "title": "리센느 원이 젓가락질까지 교정한 이서진 #리센느 #원이 #미나미",
-      "channelTitle": "떡밥냥",
-      "publishedAt": "2026-10-03T09:00:37Z",
-      "thumbnail": "https://i.ytimg.com/vi/XQLzNbxaHRY/hqdefault.jpg",
-      "durationSeconds": 41,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "3OeVUMBVUFM",
-      "title": "장꾸력 만렙 리브 놀리는 제나 #리센느 #원이 #리브 #미나미 #메이 #제나 #shorts #프리티걸 #러브어택 #데자부",
-      "channelTitle": "뮤드숏",
-      "publishedAt": "2026-10-03T09:00:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/3OeVUMBVUFM/hqdefault.jpg",
-      "durationSeconds": 10,
-      "format": "short",
-      "tags": [
-        "#제나"
-      ]
-    },
-    {
-      "id": "Zt3d8bSQDn8",
-      "title": "과일만 먹는데 14000명 몰린 리센느 막내들",
-      "channelTitle": "난리마인이라구해여긴리센느의세상잘부탁해",
-      "publishedAt": "2026-10-03T09:00:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/Zt3d8bSQDn8/hqdefault.jpg",
-      "durationSeconds": 73,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "mT3kDVPUwdI",
-      "title": "순수한 리센느 타락시키는 삼촌들 #리센느 #rescene #원이 #메이",
-      "channelTitle": "리센느도감",
-      "publishedAt": "2026-10-03T09:00:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/mT3kDVPUwdI/hqdefault.jpg",
-      "durationSeconds": 51,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "zj-Gj-gp0rM",
-      "title": "중요한 소식이라는데… 메이가 기다린 건 이거였어ㅋㅋ",
-      "channelTitle": "핵심만컷",
-      "publishedAt": "2026-10-03T09:00:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/zj-Gj-gp0rM/hqdefault.jpg",
-      "durationSeconds": 14,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "UhfSnz97KzU",
-      "title": "설렁탕 한입에 갸루 모드 풀려버린 미나미",
-      "channelTitle": "리센느흥해라",
-      "publishedAt": "2026-10-03T09:00:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/UhfSnz97KzU/hqdefault.jpg",
-      "durationSeconds": 25,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "iJOAjmaAYdQ",
-      "title": "뼈드득 소리에 난리 난 리센느 도수치료 현장 🎬",
-      "channelTitle": "퇴근안함",
-      "publishedAt": "2026-10-03T09:00:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/iJOAjmaAYdQ/hqdefault.jpg",
-      "durationSeconds": 32,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "tdy3SUl0zjQ",
-      "title": "#리센느빵 #리브 #리브의초코호떡 #리센느 #원이 #오이쉬",
-      "channelTitle": "춘다tv",
-      "publishedAt": "2026-10-03T09:00:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/tdy3SUl0zjQ/hqdefault.jpg",
-      "durationSeconds": 60,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#원이"
-      ]
-    },
-    {
-      "id": "M4ilBrhMcsk",
-      "title": "\"우유는 지나갈뿐\" 리센느 리브의 꿀조합 시리얼 레시피 🥣",
-      "channelTitle": "하트픽",
-      "publishedAt": "2026-10-03T08:59:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/M4ilBrhMcsk/hqdefault.jpg",
-      "durationSeconds": 23,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "tI10b0qo5dI",
-      "title": "[리센느]광규 삼촌한테 당면 공격하는 리브 ㅋㅋㅋㅋ",
-      "channelTitle": "리센느집합소",
-      "publishedAt": "2026-10-03T08:59:24Z",
-      "thumbnail": "https://i.ytimg.com/vi/tI10b0qo5dI/hqdefault.jpg",
-      "durationSeconds": 10,
-      "format": "short",
-      "tags": [
-        "#리브"
-      ]
-    },
-    {
-      "id": "uwkz8yFwtoI",
-      "title": "혼자만 제대로 설렁탕 먹는 미나미 #쇼츠 #shorts",
-      "channelTitle": "결말뭐지",
-      "publishedAt": "2026-10-03T05:30:16Z",
-      "thumbnail": "https://i.ytimg.com/vi/uwkz8yFwtoI/hqdefault.jpg",
-      "durationSeconds": 37,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "o5-x6qekQ2k",
-      "title": "원이 삼촌 이선민·유영우, 10월 예능인 브랜드평판 몇 위?",
-      "channelTitle": "[data-viz 빅스타] Bigxtar",
-      "publishedAt": "2026-10-03T05:17:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/o5-x6qekQ2k/hqdefault.jpg",
-      "durationSeconds": 35,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "c5Yp6ZCr9E8",
-      "title": "생활연기 미쳤다는 일본 여돌ㅋㅋ",
-      "channelTitle": "코믹박스",
-      "publishedAt": "2026-10-03T05:13:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/c5Yp6ZCr9E8/hqdefault.jpg",
-      "durationSeconds": 33,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "IEMmKVlFjPs",
-      "title": "메이의 말랭이 수업 하실게요 삼촌덜! #비서진 #SBS",
-      "channelTitle": "라면귀신",
-      "publishedAt": "2026-10-03T05:11:03Z",
-      "thumbnail": "https://i.ytimg.com/vi/IEMmKVlFjPs/hqdefault.jpg",
-      "durationSeconds": 61,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "21oCWNwPyUI",
-      "title": "리센느 미나미, 친구 없었다는 학교 가는 길",
-      "channelTitle": "덕후지인",
-      "publishedAt": "2026-10-03T05:10:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/21oCWNwPyUI/hqdefault.jpg",
-      "durationSeconds": 26,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "5pDgy_pK4eo",
-      "title": "제나로 2행시한 학생 센스에 감탄한 리센느",
-      "channelTitle": "킹센느",
-      "publishedAt": "2026-10-03T05:08:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/5pDgy_pK4eo/hqdefault.jpg",
-      "durationSeconds": 15,
-      "format": "short",
-      "tags": [
-        "#제나"
-      ]
-    },
-    {
-      "id": "sSRQNtyLXUY",
-      "title": "원프리티걸👻[원이 찐팬]",
-      "channelTitle": "원이 찐팬",
-      "publishedAt": "2026-10-03T05:06:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/sSRQNtyLXUY/hqdefault.jpg",
-      "durationSeconds": 6,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "SNK6aVP22mg",
-      "title": "[리센느] 보물 다 챙겨온 수달메이",
-      "channelTitle": "까엉이귀엽누 ",
-      "publishedAt": "2026-10-03T05:04:10Z",
-      "thumbnail": "https://i.ytimg.com/vi/SNK6aVP22mg/hqdefault.jpg",
-      "durationSeconds": 43,
-      "format": "short",
-      "tags": [
-        "#메이"
-      ]
-    },
-    {
-      "id": "4FL9r02-st8",
-      "title": "언니 나 안아… 알고 보니 쌍방팬 | 리센느 원이·미나미 × 장도연",
-      "channelTitle": "쎈둥이",
-      "publishedAt": "2026-10-03T05:02:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/4FL9r02-st8/hqdefault.jpg",
-      "durationSeconds": 45,
-      "format": "short",
-      "tags": [
-        "#원이"
-      ]
-    },
-    {
-      "id": "64-cxG2EsJo",
-      "title": "리센느 미나미의 메론빵 먹어봄 🍈 CU 신상 리센느빵 #shorts",
-      "channelTitle": "피치몬드 Peachmond",
-      "publishedAt": "2026-10-03T05:00:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/64-cxG2EsJo/hqdefault.jpg",
-      "durationSeconds": 15,
-      "format": "short",
-      "tags": [
-        "#미나미"
-      ]
-    },
-    {
-      "id": "h51CVAXGhWg",
-      "title": "너무 귀엽다 진경은 진짜 혼나볼래? #리센느 #원이 #리브 #미나미 #메이 #제나 #shorts #프리티걸 #러브어택 #데자부",
-      "channelTitle": "뮤드숏",
-      "publishedAt": "2026-10-03T05:00:08Z",
-      "thumbnail": "https://i.ytimg.com/vi/h51CVAXGhWg/hqdefault.jpg",
-      "durationSeconds": 9,
-      "format": "short",
-      "tags": [
-        "#리브",
-        "#미나미",
-        "#원이",
-        "#제나"
-      ]
-    },
-    {
-      "id": "5dMy_lAo3Do",
-      "title": "20키로 아니고 18키로에요 #리센느 #미나미 #안원잘부",
-      "channelTitle": "즐거운엔터시즌",
-      "publishedAt": "2026-10-03T05:00:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/5dMy_lAo3Do/hqdefault.jpg",
-      "durationSeconds": 30,
-      "format": "short",
-      "tags": [
-        "#미나미"
       ]
     }
   ]
